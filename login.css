@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    border: 1;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4, #fad0c4, #ffdde1);
+}
+.login-box{
+    width: 300px;
+    padding: 20px;
+    background: white;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow: #ffdde1;
+
+}
